@@ -1,4 +1,4 @@
-# PSO-2017b
+# Dota2 Perfil Preview
 Trabalho Final por Lucas Micol e Rodrigo Amaral<br/><br/>
 
 Nosso trabalho consiste em geração de páginas html utilizando requests em API's, em nosso site gerado, criamos buscas por partidas de um jogo eletrônico chamado DOTA 2.<br/>
